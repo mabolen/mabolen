@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabolen
 - 👀 I’m interested in front-end development mainly.
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning Front End Development Librairies
 - 💞️ I’m looking to collaborate on random garbage.
 - 📫 How to reach me : mbolen13fox@gmail.com
 
