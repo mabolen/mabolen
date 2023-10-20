@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marshall
-- 👀 I’m interested in full stack web applications, deep learning, and game development.
-- 🌱 I’m currently working on data visualisation, interactive user interfaces, and optimizing API-database interactions.
-- 💞️ I’m looking to collaborate on web apps, games, music generators/samplers, and visualizing data.
+- 👀 I’m interested in anything and everything.
+- 🌱 I’m currently working on data visualization, dashboards, and APIs
+- 💞️ I’m looking to collaborate on data projects that need dashboards || visualizations.
 - 📫 How to reach me : marshall.a.bolen@gmail.com
 
 <!---
